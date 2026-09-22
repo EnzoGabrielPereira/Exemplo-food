@@ -3,7 +3,7 @@ import Pedido from './components/Pedido'
 const App = () => {
   return (
     <div>
-      <Pedido>
+      <Pedido/>
     </div>
   )
 }
